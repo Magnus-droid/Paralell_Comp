@@ -1,0 +1,1 @@
+MPI_File_write_at_all ( out, rank * subgrid_size, &T(0,0) subgrid_size, MPI_DOUBLE, MPI_STATUS_IGNORE );
