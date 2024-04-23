@@ -1,3 +1,3 @@
 # Parallell_Comp
 
-This repo contains the tasks1-6 in the subject TDT4200 at the Norwegian University of Science and Technology
+This repo contains the tasks1-6 in the subject TDT4200 at the Norwegian University of Science and Technology. The files for task 4 and 5 seem to have been corrupted in some way...
